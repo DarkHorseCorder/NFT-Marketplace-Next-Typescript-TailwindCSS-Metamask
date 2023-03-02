@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## NFT Marketplace demo project built by Next.js
 
-## Getting Started
+![screencapture-localhost-3000-2023-03-02-09_44_36](https://user-images.githubusercontent.com/120799088/222301586-7f012099-cb74-4efc-99b2-15ab5c2a36b0.png)
+![screencapture-localhost-3000-profile-2023-03-02-09_44_56](https://user-images.githubusercontent.com/120799088/222301599-ead8fc4a-1e82-4ae4-a469-42e4c0aa6262.png)
+
 
 First, run the development server:
 
